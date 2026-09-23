@@ -1,26 +1,13 @@
-# ai-customer-experience-hub
-AI Customer Experience Hub — personalize CX. Part of the **Zion App Network** (640+ apps by Zion Tech Group).
+# AI Customer Experience Hub
 
-- 🌐 Live app: https://ziontechgroup.com/ai-customer-experience-hub/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+Personalize customer experience with AI-driven insights and journey optimization.
 
-## Features
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-- Production-ready module of the Zion Tech Group platform
-- AI-powered automation with enterprise-grade security and audit logging
-- Integrates with the rest of the Zion App Network out of the box
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full app catalog: https://ziontechgroup.com/apps/
+- 📢 About the network: https://ziontechgroup.com/app-network/
+- 💻 GitHub org: https://github.com/Zion-support
+- ✉️ Contact: commercial@ziontechgroup.com
 
-## Zion App Network (related apps)
-
-- [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) — https://ziontechgroup.com/ai-cybersecurity-hub/
-- [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) — https://ziontechgroup.com/ai-data-engineering-hub/
-- [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) — https://ziontechgroup.com/ai-growth-marketing-hub/
-- [ai-retail-commerce-hub](https://github.com/Zion-support/ai-retail-commerce-hub) — https://ziontechgroup.com/ai-retail-commerce-hub/
-- [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) — https://ziontechgroup.com/zion-ai-translation-hub/
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
-
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+Related apps: [churn-radar](https://github.com/Zion-support/churn-radar) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence)
