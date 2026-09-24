@@ -1,13 +1,16 @@
 # AI Customer Experience Hub
 
-Personalize customer experience with AI-driven insights and journey optimization.
+Personalize customer experience with AI across every touchpoint.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://ziontechgroup.com/ai-customer-experience-hub/
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+## Features
+- Journey analytics with friction detection
+- Personalized next-best-experience recommendations
+- CSAT/NPS prediction
 
-Related apps: [churn-radar](https://github.com/Zion-support/churn-radar) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) · [Churn Early-Warning](https://github.com/Zion-support/zion-ai-churn-early-warning) · [Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [Voice of Customer Hub](https://github.com/Zion-support/voice-of-customer-hub)
+
+© 2026 Zion Tech Group
