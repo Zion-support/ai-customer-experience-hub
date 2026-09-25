@@ -1,10 +1,21 @@
-# AI Customer Experience Hub
+# AI Customer Experience Hub — Network Links
 
-Personalize CX.
+Personalize CX journeys with unified signals and next-best-actions.
+
+## Live
+- App: https://ziontechgroup.com/ai-customer-experience-hub/
+- Repo: https://github.com/Zion-support/ai-customer-experience-hub
+- Pages: https://zion-support.github.io/ai-customer-experience-hub/
+
+## Related apps
+- [voice-of-customer-hub](https://ziontechgroup.com/voice-of-customer-hub/) · [GitHub](https://github.com/Zion-support/voice-of-customer-hub)
+- [ai-review-insights](https://ziontechgroup.com/ai-review-insights/) · [GitHub](https://github.com/Zion-support/ai-review-insights)
+- [churn-radar](https://ziontechgroup.com/churn-radar/) · [GitHub](https://github.com/Zion-support/churn-radar)
 
 ## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-support-copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-chatbot-builder](https://github.com/Zion-support/zion-ai-chatbot-builder) · [zion-ai-social-listening](https://github.com/Zion-support/zion-ai-social-listening) · [churn-radar](https://github.com/Zion-support/churn-radar)
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+*Zion Tech Group · part of the 703+ app AI network.*
