@@ -1,6 +1,6 @@
 # AI Customer Experience Hub — Network Links
 
-Unify CX signals, journeys and NPS drivers in one hub.
+Unify CX signals — NPS, tickets, reviews — into one actionable hub.
 
 ## Live
 - App: https://ziontechgroup.com/ai-customer-experience-hub/
@@ -10,7 +10,7 @@ Unify CX signals, journeys and NPS drivers in one hub.
 ## Related apps
 - [voice-of-customer-hub](https://ziontechgroup.com/voice-of-customer-hub/) · [GitHub](https://github.com/Zion-support/voice-of-customer-hub)
 - [ai-review-insights](https://ziontechgroup.com/ai-review-insights/) · [GitHub](https://github.com/Zion-support/ai-review-insights)
-- [ai-cart-recovery](https://ziontechgroup.com/ai-cart-recovery/) · [GitHub](https://github.com/Zion-support/ai-cart-recovery)
+- [employee-engagement-pulse](https://ziontechgroup.com/employee-engagement-pulse/) · [GitHub](https://github.com/Zion-support/employee-engagement-pulse)
 
 ## Network
 - Homepage: https://ziontechgroup.com
